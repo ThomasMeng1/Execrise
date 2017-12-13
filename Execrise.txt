@@ -1,2 +1,7 @@
 Thomas:This is an execrise.
+<<<<<<< HEAD
 --Second update.
+=======
+--first update.
+--third update.
+>>>>>>> developing
